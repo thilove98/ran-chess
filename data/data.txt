@@ -1,0 +1,10 @@
+01234567:;<=>?@Almnopqrsvwxyz{|} 1434
+01234567:;<=>?@Almno\qrsvwxyz{|} 1434
+01234567:;<=R?@Almno\qrsvwxyz{g} 122
+01234567:;<=R?@Almn[\qrsvwxyz{|} 122
+01234567:;<=>?@Almn[pqrsvwxyz{|} 1333
+01234567:;<Q>?@AlmZ[pqrsvwxyz{|} 1222
+0F234567:;<=R?@Almno\qrsvwxyzOg} 1020
+0F234567D;<=R?@Almno\qrsvwxyzXg} 625
+0F2345I7D;<=R?@Almno\qrsvwxy|Xg{ 514
+0~234567D;<=R?@Almno\qrsvwxyzFg} 1322
