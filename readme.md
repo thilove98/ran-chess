@@ -21,4 +21,5 @@ $ ./sfml-app
 
 ### Demo
 
-![](image/fill.png)
+[![Watch the video](temp/ranchess_demo.mp4)
+
