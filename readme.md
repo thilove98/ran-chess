@@ -21,5 +21,6 @@ $ ./sfml-app
 
 ### Demo
 
-[![Watch the video](temp/ranchess_demo.mp4)
+[![IMAGE](http://img.youtube.com/vi/_I4fj7ki9Po/0.jpg)](http://www.youtube.com/watch?v=_I4fj7ki9Po)
+
 
